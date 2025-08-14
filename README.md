@@ -15,9 +15,9 @@ learn-python-step-by-step/
 ## 🚀 Goal
 The goal of this repository is to help anyone **learn Python step-by-step** through practical examples.
 
-- **Stage 1** → Basics (200 Examples)
-- **Stage 2** → Intermediate (200 Examples)
-- **Stage 3** → Advanced (200 Examples)
+- **Stage 1** → Basics (200 Code Examples)
+- **Stage 2** → Intermediate (200 Code  Examples)
+- **Stage 3** → Advanced (200 Code Examples)
 
 ## 📘 Topics Covered
 
@@ -57,7 +57,7 @@ The goal of this repository is to help anyone **learn Python step-by-step** thro
 ## 💡 How to Use
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/learn-python-step-by-step.git
+git clone https://github.com/shahidali54/learn-python-step-by-step.git
 ```
 2. Navigate to a stage folder:
 ```bash
@@ -65,11 +65,11 @@ cd basics
 ```
 3. Run any Python example:
 ```bash
-python example1.py
+python your file name.py
 ```
 
 ## 🏆 Contribution
 Want to improve or add examples? Feel free to **fork** the repo and create a pull request.
 
 ---
-**Made with ❤️ to help everyone learn Python**
+**Made with ❤️ By Shahid Ali to help everyone learn Python**
