@@ -6,9 +6,9 @@ This repository is a complete collection of **Python examples** starting from th
 ```
 learn-python-step-by-step/
 │
-├── basics/          # 200 examples covering Python fundamentals
-├── intermediate/    # 200 examples covering intermediate concepts
-├── advanced/        # 200 examples covering advanced topics
+├── basics/          
+├── intermediate/    
+├── advanced/        
 └── README.md
 ```
 
@@ -57,7 +57,7 @@ The goal of this repository is to help anyone **learn Python step-by-step** thro
 ## 💡 How to Use
 1. Clone the repository:
 ```bash
-git clone https://github.com/shahidali54/learn-python-step-by-step.git
+git clone [https://github.com/shahidali54/learn-python-step-by-step](https://github.com/shahidali54/Learn-Python-Step-By-Step).git
 ```
 2. Navigate to a stage folder:
 ```bash
